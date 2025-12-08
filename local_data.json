@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kristoffer",
+      "email": "kris@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Anna",
+      "email": "anna@example.com",
+      "address": {
+        "street": "Main St",
+        "city": "Copenhagen"
+      }
+    }
+  ]
+}
