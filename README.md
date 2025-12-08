@@ -14,10 +14,15 @@ Der kommer en kort demonstration af hvordan få JSON filer ser ud i forhold til 
 Til at runde området af, kommer der en kort præsentation af de forskellige datastrukturer. Brugen af de relevante datastrukturer vises i print samt svagheder og styrker.
 
 ## For at komme i gang derhjemme:
+
+Hvis du allerede har projektet liggende og prøver at bruge det igen:
+.\.venv\Scripts\activate
+
 1) Hent de nødvendige packages fra requirements.txt
 python -m venv .venv
 .\.venv\Scripts\activate
 python -m pip install -r requirements.txt
+
 
 2) Sikrer dig at den siger (.venv) når du er inde i projektet.
 
