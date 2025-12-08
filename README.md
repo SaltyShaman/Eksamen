@@ -1,7 +1,7 @@
 # Python Valgfag – Datastrukturer og JSON
 
 ## Introduktion
-Dette projekt handler om, hvordan man arbejder med datastrukturer i Python, når man håndterer JSON-filer.
+Dette projekt handler om, hvordan man arbejder med datastrukturer i Python, når man håndterer JSON-filer. Der er også lidt om de indbyggede datastrukturer i Python. Disse ligger i mappen datastrukturer.
 
 
 ## Lokal JSON-filer
