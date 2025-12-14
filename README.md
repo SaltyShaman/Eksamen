@@ -11,7 +11,9 @@ Jeg villæse en lokal JSON-fil med Python og forklare de forskellige dictionarie
 Der kommer en kort demonstration af hvordan få JSON filer ser ud i forhold til Python. 
 
 ## Hvornår skal de forskellige strukturer bruges
-Til at runde området af, kommer der en kort præsentation af de forskellige datastrukturer. Brugen af de relevante datastrukturer vises i print samt svagheder og styrker.
+For at holde til de indbyggede Python biblioteker kommer der en kort præsentation af de forskellige datastrukturer. Brugen af de forskellige datastrukturer vises i print samt svagheder og styrker. 
+
+Live code er ikke planlagt, men man kan fremvises til de "nemme" datastrukturer i Python. Dv.s lister og sæt.
 
 ## For at komme i gang derhjemme:
 Hvis du allerede har projektet liggende og prøver at bruge det igen:
